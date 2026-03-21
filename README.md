@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm [Nico](https://www.linkedin.com/in/nicolaswilches/), a **data scientist** based in Madrid, Spain.
+I'm Nico, a **data scientist** based in Madrid, Spain.
 
 I build useful things with data.
 
