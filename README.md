@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏼
 I'm Nico, a **data scientist** based in Madrid, Spain.
 
 I build useful things with data.
